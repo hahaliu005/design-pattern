@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * 建造者模式
+ */
+
 abstract class CarModel
 {
     protected $sequence = [];
