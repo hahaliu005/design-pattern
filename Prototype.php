@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * 原型模式
+ */
 class mail
 {
     protected $name;
